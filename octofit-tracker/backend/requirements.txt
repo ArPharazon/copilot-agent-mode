@@ -1,3 +1,4 @@
+bson==0.5.10
 Django==4.1
 djangorestframework==3.14.0
 django-allauth==0.51.0
